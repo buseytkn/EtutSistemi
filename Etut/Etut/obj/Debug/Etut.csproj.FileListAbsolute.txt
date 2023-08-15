@@ -1,0 +1,11 @@
+D:\Etut\Etut\bin\Debug\Etut.exe.config
+D:\Etut\Etut\bin\Debug\Etut.exe
+D:\Etut\Etut\bin\Debug\Etut.pdb
+D:\Etut\Etut\obj\Debug\Etut.csproj.AssemblyReference.cache
+D:\Etut\Etut\obj\Debug\Etut.csproj.SuggestedBindingRedirects.cache
+D:\Etut\Etut\obj\Debug\Etut.Form1.resources
+D:\Etut\Etut\obj\Debug\Etut.Properties.Resources.resources
+D:\Etut\Etut\obj\Debug\Etut.csproj.GenerateResource.cache
+D:\Etut\Etut\obj\Debug\Etut.csproj.CoreCompileInputs.cache
+D:\Etut\Etut\obj\Debug\Etut.exe
+D:\Etut\Etut\obj\Debug\Etut.pdb
